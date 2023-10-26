@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://valentinatong-iiif.vercel.app/14/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "VT_Serido_base37"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Valentina Tong"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date"
+                ]
+            },
+            "value": {
+                "none": [
+                    "10/2021"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografia analógica"
+                ]
+            }
+        }
+    ],
+    "requiredStatement": {
+        "label": "Atribuição",
+        "value": "Provided by Valentina Tong"
+    },
+    "thumbnail": [
+        {
+            "id": "https://valentinatong-iiif.vercel.app/14/1ed73f01c5080d52f578cc40204d8f27/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://valentinatong-iiif.vercel.app/14/canvas/0",
+            "type": "Canvas",
+            "height": 3750,
+            "width": 6667,
+            "items": [
+                {
+                    "id": "https://valentinatong-iiif.vercel.app/14/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://valentinatong-iiif.vercel.app/14/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://valentinatong-iiif.vercel.app/14/canvas/0",
+                            "body": {
+                                "id": "https://valentinatong-iiif.vercel.app/14/1ed73f01c5080d52f578cc40204d8f27/full/2000,1125/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1125,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://valentinatong-iiif.vercel.app/14/1ed73f01c5080d52f578cc40204d8f27",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

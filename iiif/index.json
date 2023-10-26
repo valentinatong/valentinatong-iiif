@@ -1,0 +1,201 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://valentinatong-iiif.vercel.app/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Seridó Potiguar"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://valentinatong-iiif.vercel.app/01/30c21e362112fd635d0c9c2cd8483933/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "items": [
+        {
+            "id": "https://valentinatong-iiif.vercel.app/01/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base10"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/02/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base13"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/03/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base14"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/04/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base16"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/10/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base28"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/11/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base3"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/12/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base34"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/13/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base36"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/14/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base37"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/15/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base41"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/16/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base43"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/17/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base5"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/18/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base7"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/19/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base8"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/20/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base9"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/5/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base18"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/6/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base23"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/7/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base24"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/8/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base25"
+                ]
+            }
+        },
+        {
+            "id": "https://valentinatong-iiif.vercel.app/9/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "VT_Serido_base26"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://valentinatong-iiif.vercel.app/18/42488f484f951fb33b1d098387c34d60",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 6667,
+  "height": 3750,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 169
+    },
+    {
+      "width": 2000,
+      "height": 1125
+    }
+  ]
+}
